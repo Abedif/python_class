@@ -25,7 +25,7 @@ win.config(bg ='light green')
 #==================Widget=======================
 
 #name
-name_label = Label(win , text = 'Name : ' , font= 'arial 15' , bg ='light green' , fg='black' )
+name_label = Label(win , text = 'Name : ' , font= 'arial 15' , bg ='light green' , fg='yellow' )
 name_label.place(x=35 , y=30)
 
 name_ent = Entry(win , width=35)
